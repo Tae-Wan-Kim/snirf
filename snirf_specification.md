@@ -988,4 +988,4 @@ specification:
 - Takumi Inakazu, Hitachi
 - Lamija Pasalic, NIRx
 - Davood Tashayyod, fNIR Devices and Biopac Inc
-- Hanseok Yun, OdeLab Inc
+- Hanseok Yun, OBELAB Inc
